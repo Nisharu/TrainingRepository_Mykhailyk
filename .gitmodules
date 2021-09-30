@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Mykhailyk"]
+	path = SubmoduleRepository_Mykhailyk
+	url = https://github.com/Nisharu/SubmoduleRepository_Mykhailyk
